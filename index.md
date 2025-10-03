@@ -1,11 +1,14 @@
----
 layout: default
 title: Home
 ---
 
-# Welcome to the homepage
+# Welcome to My Site
 
 Here are some links:
 
-- [Description page](description.md)
-- [YouTube link](https://www.youtube.com)
+- [About Page](about.md)
+- [Visit Google](https://www.google.com)
+
+![Sample Image](rcos.png)
+
+<link rel="stylesheet" href="style.css">
