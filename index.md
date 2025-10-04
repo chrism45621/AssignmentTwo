@@ -5,7 +5,7 @@
 
 Here are some links:
 
-- [About Page](about.md)
+- [About Page](description.md)
 - [Visit youtube](https://www.youtube.com)
 
 ![Sample Image](rcos.png)
