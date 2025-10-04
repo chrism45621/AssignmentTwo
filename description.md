@@ -1,10 +1,14 @@
 ---
 layout: default
-title: Description Page
+title: Description
 ---
 
-# Description Page
+# About This Site
 
-This is the description page.
+This is the page description.
 
 [Back to Home](index.md)
+
+![img](rcos.png)
+
+<link rel="stylesheet" href="style.css">
