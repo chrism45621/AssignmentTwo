@@ -1,5 +1,4 @@
-layout: default
-title: Home
+
 ---
 
 # Welcome to My Site
@@ -7,7 +6,7 @@ title: Home
 Here are some links:
 
 - [About Page](about.md)
-- [Visit Google](https://www.google.com)
+- [Visit youtube](https://www.youtube.com)
 
 ![Sample Image](rcos.png)
 
