@@ -15,4 +15,4 @@ The website has
   - Image size
  
     ## Website
-    [Visit website](https://chrism45621.github.io/index.md/
+    [Visit website](https://chrism45621.github.io/AssignmentTwo/
